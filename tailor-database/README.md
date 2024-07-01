@@ -74,10 +74,9 @@ We would like to express our gratitude to the following:
 
 ### Contact
 
-For questions or feedback, please reach out to us at abhiksalian0728@gmail.com
+For questions or feedback, please reach out to us at akshaykumars9108@gmail.com
 
 ### Contributors
 
 - @Abhik Salian
-- @Akash Acharya
-- @Chirag
+- @Akshaya Kumar S
