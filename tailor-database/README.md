@@ -28,7 +28,7 @@ No installation is required for clients. Tailor must login on the SmartStitch pl
 
 ```bash
 # Clone the repository
-git clone https://github.com/AbhikSalian/tailor_database.git
+git clone https://github.com/AkahayKumarS/Tailor-s-Database-Management-System.git
 
 # Change directory
 cd SmartStitch
